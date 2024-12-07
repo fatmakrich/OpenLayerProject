@@ -1,8 +1,8 @@
 # Projet Web Mapping avec OpenLayers et Node.js
 
-# Réalisé par :   Malek Elmechi et Fatma Krichen
+## Réalisé par :   Malek Elmechi et Fatma Krichen
 
-# Encadré par :   Mr Riadh Tebourbi
+## Encadré par :   Mr Riadh Tebourbi
 
 # Introduction
 
