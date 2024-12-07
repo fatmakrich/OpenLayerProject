@@ -19,9 +19,14 @@ Les données des géométries (points, lignes, polygones) dessinées par les uti
 # Fonctionnalités
 
 - Localisation utilisateur : Récupère et affiche la position GPS actuelle de l'utilisateur sur la carte.
-- Dessiner des géométries : Point : Ajouter un point ponctuel.
+- Dessiner des géométries :
+
+                            Point : Ajouter un point ponctuel.
+  
                             Ligne : Tracer une ligne simple connectant deux points.
+  
                             Polygone : Dessiner une surface fermée avec plusieurs sommets.
+  
 - Sauvegarde sur PostgreSQL/PostGIS : Les géométries sont sauvegardées dans une base de données avec leur type et leurs coordonnées.
 - Affichage interactif : Basé sur OpenLayers pour des interactions fluides et une navigation intuitive.
 
