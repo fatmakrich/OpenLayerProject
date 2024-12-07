@@ -28,7 +28,9 @@ Les données des géométries (points, lignes, polygones) dessinées par les uti
 # Technologies Utilisées
 
 1- Frontend : HTML5, CSS3, JavaScript avec OpenLayers.
+
 2- Backend : Node.js avec Express.js pour la gestion des API REST.
+
 3- PostgreSQL avec PostGIS pour le stockage et la gestion des données spatiales.
 
 # Captures d'écran
