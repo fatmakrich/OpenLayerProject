@@ -54,4 +54,4 @@ Les données des géométries (points, lignes, polygones) dessinées par les uti
 
 3. Démonstration du Backend avec Postman
 
-(pdf_name)
+(projet openlayers .pdf)
