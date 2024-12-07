@@ -33,17 +33,17 @@ Les données des géométries (points, lignes, polygones) dessinées par les uti
 
 # Captures d'écran
 
-(Images/capture1.png)
+(capture1.png)
 
 1. Localisation utilisateur
 
-(Images/capture2.png)
+(capture2.png)
 
 2. Dessin de Point - Dessin de Ligne - Dessin de Polygone
 
-(Images/capture3.png)
+(capture3.png)
 
-(Images/DESSINTOUT.png)
+(DESSINTOUT.png)
 
 3. Démonstration du Backend avec Postman
 
